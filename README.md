@@ -1,6 +1,6 @@
 # crud_de_avaliaccao
 
-Projeto CRUD em PHP 8.1.2, MySQL, HTML5 e algum Bootstrap v.5.1.3
+Projeto CRUD em PHP 8.1.2, MySQL 5.1.1, HTML5 e algum Bootstrap v.5.1.3
 
 Desenvolvimento de um projeto CRUD (tarefas administrativas de uma escola fictícia); necessário o acesso a banco de dados por meio do MySQL e da linguagem de programação PHP.
 
