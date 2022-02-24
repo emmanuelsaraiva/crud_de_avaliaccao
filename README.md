@@ -12,5 +12,6 @@ Tópicos envolvidos neste Projeto:
 
 Instruções para execução e compreensão da estrutura do Projeto:
 
-Importar o arquivo por meio do phpMyAdmin para criar o banco de dados escola e as tabelas associadas (alunos, disciplinas, professores; de relacionamentos: cursa - entre os 
-dados das tabelas alunos e disciplinas - e ensina - entre os dados das tabelas professores e disciplinas).
+a. importar o arquivo por meio do phpMyAdmin para criar o banco de dados escola e as tabelas associadas (alunos, disciplinas, professores; de relacionamentos: cursa - entre os dados das tabelas alunos e disciplinas - e ensina - entre os dados das tabelas professores e disciplinas);
+
+b. não há necessidade de hierarquizar os arquivos em pastas diferentes.
