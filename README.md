@@ -6,8 +6,8 @@ Desenvolvimento de um projeto CRUD (tarefas administrativas de uma escola fictí
 
 Tópicos envolvidos neste Projeto:
 
-1. acesso a banco de dados com o MySql;
-2. extenso uso da linguagem PHP para gerenciamento do banco de dados;
+1. acesso a banco de dados com o MySQL;
+2. extenso uso da linguagem PHP para gerenciamento dos registros do banco de dados;
 3. emprego de folhas de estilo (CSS) e do framework open source Bootstrap para criação de um layout mais estilizado.
 
 Instruções para execução e compreensão da estrutura do Projeto:
